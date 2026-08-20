@@ -28,4 +28,4 @@ underlying cardiovascular health risk factors. The objective is to scale metrics
 ##Project Summary
 * **Data Preprocessing:** Handled missing values, encoded categorical patient features, and scaled numerical metrics to prepare data for optimal machine learning performance.
 *  **Model Training:** Evaluated multiple binary classification algorithms including Logistic Regression, Random Forest, and Support Vector machines to establish baseline metrics.
-*  **Evaluation & Optimization:** Fine-tuned hyperparameters and plotted confusion matrices, ROC curves, and precision-recall metrics to identify the most accurate predictive model
+*  **Evaluation & Optimization:** Fine-tuned hyperparameters and plotted confusion matrices, ROC curves, and precision-recall metrics to identify the most accurate predictive model.
