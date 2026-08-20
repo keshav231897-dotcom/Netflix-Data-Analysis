@@ -15,7 +15,8 @@ This repository contains an exploratory Data Analysis project focused on the Net
 * **Exploratory Analysis:** Designed 5 core analysis blocks evaluating numeric statistics, genre counts, country distribution hubs and growth trajectories.
 * **Visualisation:** Rendered 6 distinct chart types including vertical/horizontal distributions, trend lines, heatmaps, and scatter plots.
 
-#Project 2:  Heart Disease Machine Learning Prediction Project
+# Project 2:  Heart Disease Machine Learning Prediction Project
+
 This Project Focuses on building an automated binary classification workspace evaluating patient metrics to identify
 underlying cardiovascular health risk factors. The objective is to scale metrics, evaluate multiple ML algorithms, and accurately predict risk models.
 
