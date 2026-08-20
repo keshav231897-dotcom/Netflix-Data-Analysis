@@ -1,4 +1,4 @@
-#AI/ML Internship Portfolio Projects
+#AI/ML Internship Portfolio Projects:
 This repository contains the official portfolio submission projects completed during my AI/ML internship program.
 
 # Project 1:  Netflix Exploratory Data Analysis (EDA) Project
